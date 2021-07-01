@@ -1,24 +1,21 @@
-# vue-options-vs-composition
+# 🖥️ Vue.js Options vs Composition
 
-## Project setup
-```
-npm install
-```
+<h1 align="center">
+  <img src=".github/logo.png" width="200px" />
+</h1>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🔎️ Description
 
-### Compiles and minifies for production
-```
-npm run build
-```
+A basic ToDo list application made in order to compare the Options API vs the Composition API in Vue.js 3.
 
-### Lints and fixes files
-```
-npm run lint
-```
+This project was made during the <a href="https://www.udemy.com/course/vue-js-v3-super-fast-course-from-zero-to-advanced-web-development/">Vue JS 3 Modern Web Development with Vuex & Vue Router</a> course on Udemy.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 🚀️ Technologies
+
+- Vue.js 3
+
+---
+
+Thank you and good coding 😎️
+
+Made by **<a href="https://paulophlp.github.io/portfolio/" target="__blank">Paulo Lima 🤓️</a>**
